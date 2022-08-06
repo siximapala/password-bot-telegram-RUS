@@ -1,7 +1,7 @@
 import telebot
 import random
 from telebot import types
-bot = telebot.TeleBot('5426440658:AAHh_CKOoRuM7kw6HM1CoWjwjHNb7_xXU98')
+bot = telebot.TeleBot('##############################ТОКЕН')
 
 unique_symbols_cond = False
 numbers_cond = False
